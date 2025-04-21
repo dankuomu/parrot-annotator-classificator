@@ -10,3 +10,6 @@ ultralytics
 
 transformers
 timm
+
+#helium
+bs4
